@@ -1,0 +1,4 @@
+opencv-python
+image-similarity-measures
+numpy
+pillow
